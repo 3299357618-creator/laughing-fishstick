@@ -19,7 +19,7 @@ Windows 的图形界面程序**不可能在用户登录前显示**（session 0 �
 | 项目 | 值 |
 | --- | --- |
 | 计划任务名 | `DSH Silent Autostart` |
-| 作用范围 | 当前用户 `赵鹏琪\zqp` |
+| 作用范围 | 当前用户 `` |
 | 启动器 | `C:\Users\zqp\AppData\Local\DshAutostart\Start-DshSilent.vbs` |
 | 日志 | `C:\Users\zqp\AppData\Local\DshAutostart\autostart.log` |
 | 触发条件 | 登录时（At Logon），先等 10 秒让桌面就绪 |
